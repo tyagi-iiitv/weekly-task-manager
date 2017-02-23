@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Weekly Task Manager</string>
+    <string name="action_settings">Created by anjul tyagi</string>
+    <string name="header">task</string>
+    <string name="text">time left</string>
+    <string name="task_on">Currently the following task is on</string>
+    <string name="task_on_name">Task name</string>
+    <string name="time_left">with time left</string>
+    <string name="time_left_in_min">time left in mins</string>
+    <string name="stop">stop</string>
+    <string name="mark_as_done">Mark as done</string>
+    <string name="Create">Create a new task</string>
+    <string name="Delete">Delete an existing task</string>
+    <string name="title_activity_create_new_task">CreateNewTask</string>
+    <string name="title_activity_delete_task">DeleteTask</string>
+    <string name="title_activity_mark_as_done">MarkAsDone</string>
+    <string name="create_a_task">Name of task</string>
+    <string name="create_task_hint">Type the name of the task here</string>
+    <string name="set_the_time">Set the time for this task weekly</string>
+    <string name="hello_world">Hello World</string>
+    <string name="hours">Hrs</string>
+    <string name="mins">Mins</string>
+    <string name="task_create">Create this task</string>
+    <string name="reset">Reset</string>
+    <string name="task_delete">Select the task/s to delete</string>
+    <string name="delete">Delete</string>
+    <string name="task_done">Select the tasks to be marked as done</string>
+    <string name="done">Mark as done</string>
+    <string name="title_activity_task_activity">Task_activity</string>
+    <string name="start_task">Start Task</string>
+    <string name="remaining_time">Remaining Time</string>
+    <string name="total_time">Total Time</string>
+</resources>
